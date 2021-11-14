@@ -1,6 +1,7 @@
 ### Hi there, I'm Duan - aka Nitchuan 👋
 
-[![Twitter Follow](https://img.shields.io/twitter/follow/cobainajaaa?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/cobainajaaa)
+https://img.shields.io/twitter/url?label=cobainajaaa&style=social&url=https%3A%2F%2Ftwitter.com%2Fcobainajaaa
+https://img.shields.io/youtube/channel/subscribers/UCwwTAnNAmflo8ySToCz1y0g?label=Nitchuan%20Tech&style=social
 
 ## I'm a Student and Tech Enthusiast!!
 
