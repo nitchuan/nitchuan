@@ -3,7 +3,7 @@
 [![YouTube](https://img.shields.io/youtube/channel/subscribers/UCwwTAnNAmflo8ySToCz1y0g?color=red&label=Nitchuan%20Tech&logo=youtube&logoColor=red&style=for-the-badge)](https://www.youtube.com/channel/UCwwTAnNAmflo8ySToCz1y0g)
 [![Twitter Follow](https://img.shields.io/twitter/follow/cobainajaaa?color=blue&logo=twitter&style=for-the-badge)](https://twitter.com/cobainajaaa)
 
-## I'm a Student and Tech Enthusiast!!
+### I'm a Student and Tech Enthusiast!!
 
 - 📖 I’m currently learning everything
 - 🌱 2021 Goals: Contribute more to Open Source projects
