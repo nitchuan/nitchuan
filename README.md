@@ -34,8 +34,13 @@
 
 ### 📺 Latest YouTube Videos
 
+<<<<<<< HEAD
 <!-- YOUTUBE-VIDEOS:START -->
 <!-- YOUTUBE-VIDEOS:END -->
+=======
+<!-- BLOG-POST-LIST:START -->
+<!-- BLOG-POST-LIST:END -->
+>>>>>>> 015dc694af79f5b4d6100064260374539433e306
 
 ➡️ [more videos...](https://youtube.com/codestackr)
 
