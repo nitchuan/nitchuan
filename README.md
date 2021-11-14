@@ -10,9 +10,9 @@
 
 ### Connect with me:
 
-[<img align="left" alt="nitchuan | LinkedIn" width="22px" src="https://www.flaticon.com/premium-icon/linkedin_3536505?term=linkedin&page=1&position=2&page=1&position=2&related_id=3536505&origin=search" />][linkedin]
-[<img align="left" alt="nitchuan | Twitter" width="22px" src="<img src="https://img.icons8.com/fluency/48/000000/instagram-new.png"/>" />][twitter]
-[<img align="left" alt="nitchuan | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube]
+[<img align="left" alt="codeSTACKr | LinkedIn" width="22px" src="https://img.icons8.com/color/48/000000/linkedin.png" />][linkedin]
+[<img align="left" alt="codeSTACKr | Twitter" width="22px" src="https://img.icons8.com/color/48/000000/twitter--v1.png" />][twitter]
+[<img align="left" alt="codeSTACKr | YouTube" width="22px" src="https://img.icons8.com/color/48/000000/youtube-play.png" />][youtube]
 
 <br />
 
