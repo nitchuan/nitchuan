@@ -1,8 +1,7 @@
 ### Hi there, I'm Duan - aka Nitchuan 👋
 
-![Twitter](https://img.shields.io/twitter/follow/cobainajaaa?color=blue&logo=twitter&style=for-the-badge)
-![Youtube](https://img.shields.io/youtube/channel/subscribers/UCwwTAnNAmflo8ySToCz1y0g?color=red&label=Nitchuan%20Tech&logo=youtube&logoColor=red&style=for-the-badge)
-
+[![YouTube](https://img.shields.io/youtube/channel/subscribers/UCwwTAnNAmflo8ySToCz1y0g?color=red&label=Nitchuan%20Tech&logo=youtube&logoColor=red&style=for-the-badge)](https://www.youtube.com/channel/UCwwTAnNAmflo8ySToCz1y0g)
+[![Twitter Follow](https://img.shields.io/twitter/follow/cobainajaaa?color=blue&logo=twitter&style=for-the-badge)](https://twitter.com/cobainajaaa)
 
 ## I'm a Student and Tech Enthusiast!!
 
@@ -16,7 +15,7 @@
 [<img align="left" alt="nitchuan | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
 [<img align="left" alt="nitchuan | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube]
 
-<br />
+<br/>
 
 ### Languages and Tools:
 
@@ -29,10 +28,8 @@
 [<img align="left" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />][github]
 [<img align="left" alt="Terminal" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />][terminal]
 
-<br />
-<br />
-
----
+<br/>
+<br/>
 
 ### 📺 Latest YouTube Videos
 
