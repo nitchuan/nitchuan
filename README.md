@@ -1,4 +1,4 @@
-### Hi there, I'm Duan - aka [nitchuan] 👋
+### Hi there, I'm Duan - aka Nitchuan 👋
 
 [![Twitter Follow](https://img.shields.io/twitter/follow/cobainajaaa?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/cobainajaaa)
 
