@@ -2,17 +2,17 @@
 
 [![Twitter Follow](https://img.shields.io/twitter/follow/cobainajaaa?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/cobainajaaa)
 
-## I'm a Student, Developer, and Tech Enthusiast!!
+## I'm a Student and Tech Enthusiast!!
 
-- 🌱 I’m currently learning everything
-- 🥅 2021 Goals: Contribute more to Open Source projects
-- ⚡ Fun fact: I love to coffee, book and music
+- 📖 I’m currently learning everything
+- 🌱 2021 Goals: Contribute more to Open Source projects
+- 😎 Fun fact: I love to coffee, book and music
 
 ### Connect with me:
 
-[<img align="left" alt="codeSTACKr | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-[<img align="left" alt="codeSTACKr | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
-[<img align="left" alt="codeSTACKr | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube]
+[<img align="left" alt="nitchuan | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+[<img align="left" alt="nitchuan | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
+[<img align="left" alt="nitchuan | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube]
 
 <br />
 
