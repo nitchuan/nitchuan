@@ -42,7 +42,7 @@
 - [HOW TO CUSTOMIZE GNOME TOP BAR WITH CSS &lpar;UBUNTU 20.04&rpar;](https://www.youtube.com/watch?v=eEsdt_tut7Q)
 <!-- YOUTUBE:END -->
 
-➡️ [more videos...](https://youtube.com/codestackr)
+➡️ [more videos...](https://www.youtube.com/channel/UCwwTAnNAmflo8ySToCz1y0g)
 
 [twitter]: https://twitter.com/cobainajaaa
 [youtube]: https://www.youtube.com/channel/UCwwTAnNAmflo8ySToCz1y0g
