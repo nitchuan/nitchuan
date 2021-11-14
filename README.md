@@ -35,6 +35,11 @@
 ### 📺 Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
+- [Perintah Terminal Linux yang HARUS KALIAN TAHU!!](https://www.youtube.com/watch?v=g_R8KPfX9Uw)
+- [CARA MEMINDAHKAN DATA DARI IPHONE KE LINUX &lpar;UBUNTU&rpar; - Tanpa iTunes](https://www.youtube.com/watch?v=czF8Og240L0)
+- [UPGRADE MY FANTECH MAXFIT61 - GATERON G YELLOW &lpar;LUBEB&rpar; + TYPING TEST](https://www.youtube.com/watch?v=kFuKHtE91-Y)
+- [CARA LENGKAP DAN MUDAH INSTALL TOOL FLUXION &lpar;UBUNTU 20.04&rpar;](https://www.youtube.com/watch?v=ZjKcbgMBMJ0)
+- [HOW TO CUSTOMIZE GNOME TOP BAR WITH CSS &lpar;UBUNTU 20.04&rpar;](https://www.youtube.com/watch?v=eEsdt_tut7Q)
 <!-- YOUTUBE:END -->
 
 ➡️ [more videos...](https://youtube.com/codestackr)
