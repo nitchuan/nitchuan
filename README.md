@@ -36,7 +36,7 @@
 ### 📺 Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
-- [DJANGO PROJECT: FULL FITUR WEB BLOG - Part 2 &lpar;Applications and Routes&rpar;](https://www.youtube.com/watch?v=f5wVTo9fbfE)
+- [DJANGO PROJECT: FULL FITUR WEB BLOG - Part 2 &lpar;Applications dan Routes&rpar;](https://www.youtube.com/watch?v=f5wVTo9fbfE)
 - [DJANGO PROJECT: FULL FITUR WEB BLOG -  Part 1 &lpar;Membuat Project Files&rpar;](https://www.youtube.com/watch?v=oEhoA27pi78)
 - [Perintah Terminal Linux yang HARUS KALIAN TAHU!!](https://www.youtube.com/watch?v=g_R8KPfX9Uw)
 - [CARA MEMINDAHKAN DATA DARI IPHONE KE LINUX &lpar;UBUNTU&rpar; - Tanpa iTunes](https://www.youtube.com/watch?v=czF8Og240L0)
