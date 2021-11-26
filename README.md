@@ -36,11 +36,11 @@
 ### 📺 Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
+- [Cara Install KDE PLASMA DESKTOP - Ubuntu 20.04](https://www.youtube.com/watch?v=9Lj4XE8xvpU)
 - [Cara Menggunakan Timeshift - Install, Setup, Backup &amp; Restore Data](https://www.youtube.com/watch?v=hd_z5RfOrIc)
 - [DJANGO TUTORIAL: FULL FITUR WEB BLOG - Part 2 &lpar;Applications dan Routes&rpar;](https://www.youtube.com/watch?v=f5wVTo9fbfE)
 - [DJANGO TUTORIAL: FULL FITUR WEB BLOG -  Part 1 &lpar;Membuat Project Files&rpar;](https://www.youtube.com/watch?v=oEhoA27pi78)
 - [Perintah Terminal Linux yang HARUS KALIAN TAHU!!](https://www.youtube.com/watch?v=g_R8KPfX9Uw)
-- [CARA MEMINDAHKAN DATA DARI IPHONE KE LINUX &lpar;UBUNTU&rpar; - Tanpa iTunes](https://www.youtube.com/watch?v=czF8Og240L0)
 <!-- YOUTUBE:END -->
 
 [twitter]: https://twitter.com/cobainajaaa
