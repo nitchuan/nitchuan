@@ -30,9 +30,7 @@
 
 <br/>
 
----
-
-### 📺 Latest YouTube Videos
+### Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
 - [Cara Install KDE PLASMA DESKTOP - Ubuntu 20.04](https://www.youtube.com/watch?v=9Lj4XE8xvpU)
