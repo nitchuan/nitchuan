@@ -33,11 +33,11 @@
 ### Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
+- [DJANGO TUTORIAL: FULL FITUR WEB BLOG - Part 4 &lpar;Admin Page&rpar;](https://www.youtube.com/watch?v=nZSI94vaB8w)
 - [Cara Membuat MULTIBOOT LINUX dan WINDOWS Menggunakan USB Flashdisk!!](https://www.youtube.com/watch?v=-lkMfXjF1J4)
 - [DJANGO TUTORIAL: FULL FITUR WEB BLOG - Part 3 &lpar;Templates&rpar;](https://www.youtube.com/watch?v=UNp_eGR7pCU)
 - [Cara Install KDE PLASMA DESKTOP - Ubuntu 20.04](https://www.youtube.com/watch?v=9Lj4XE8xvpU)
 - [Cara Menggunakan Timeshift - Install, Setup, Backup &amp; Restore Data](https://www.youtube.com/watch?v=hd_z5RfOrIc)
-- [DJANGO TUTORIAL: FULL FITUR WEB BLOG - Part 2 &lpar;Applications dan Routes&rpar;](https://www.youtube.com/watch?v=f5wVTo9fbfE)
 <!-- YOUTUBE:END -->
 
 [twitter]: https://twitter.com/cobainajaaa
