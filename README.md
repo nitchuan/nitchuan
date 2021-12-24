@@ -33,11 +33,11 @@
 ### Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
+- [CARA DOWNLOAD DAN INSTALL PYTHON DI WINDOWS 10](https://www.youtube.com/watch?v=zv-yJE0ELvg)
 - [Ayoo kita percantik..!!](https://www.youtube.com/watch?v=XbmDyHGCKFo)
 - [DJANGO TUTORIAL: FULL FITUR WEB BLOG - Part 4 &lpar;Admin Page&rpar;](https://www.youtube.com/watch?v=nZSI94vaB8w)
 - [Cara Membuat MULTIBOOT LINUX dan WINDOWS Menggunakan USB Flashdisk!!](https://www.youtube.com/watch?v=-lkMfXjF1J4)
 - [DJANGO TUTORIAL: FULL FITUR WEB BLOG - Part 3 &lpar;Templates&rpar;](https://www.youtube.com/watch?v=UNp_eGR7pCU)
-- [Cara Install KDE PLASMA DESKTOP - Ubuntu 20.04](https://www.youtube.com/watch?v=9Lj4XE8xvpU)
 <!-- YOUTUBE:END -->
 
 [twitter]: https://twitter.com/cobainajaaa
