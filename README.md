@@ -33,11 +33,11 @@
 ### Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
+- [5 STEP CARA MUDAH INSTALL ULANG WINDOWS 7 - BTDC Eps. 0001](https://www.youtube.com/watch?v=KPh9HhB4JRg)
 - [CARA DOWNLOAD DAN INSTALL PYTHON DI WINDOWS 10](https://www.youtube.com/watch?v=zv-yJE0ELvg)
 - [Ayoo kita percantik..!!](https://www.youtube.com/watch?v=XbmDyHGCKFo)
 - [DJANGO TUTORIAL: FULL FITUR WEB BLOG - Part 4 &lpar;Admin Page&rpar;](https://www.youtube.com/watch?v=nZSI94vaB8w)
 - [Cara Membuat MULTIBOOT LINUX dan WINDOWS Menggunakan USB Flashdisk!!](https://www.youtube.com/watch?v=-lkMfXjF1J4)
-- [DJANGO TUTORIAL: FULL FITUR WEB BLOG - Part 3 &lpar;Templates&rpar;](https://www.youtube.com/watch?v=UNp_eGR7pCU)
 <!-- YOUTUBE:END -->
 
 [twitter]: https://twitter.com/cobainajaaa
