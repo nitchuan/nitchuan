@@ -33,11 +33,11 @@
 ### Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
+- [CARA INSTALL DAN MENGGUNAKAN VIRTUAL ENVIRONMENT PYTHON - WINDOWS 10](https://www.youtube.com/watch?v=zs8FekclVlc)
 - [5 STEP CARA MUDAH INSTALL ULANG WINDOWS 7 - BTDC Eps. 0001](https://www.youtube.com/watch?v=KPh9HhB4JRg)
-- [CARA DOWNLOAD DAN INSTALL PYTHON DI WINDOWS 10](https://www.youtube.com/watch?v=zv-yJE0ELvg)
+- [CARA DOWNLOAD DAN INSTALL PYTHON - WINDOWS 10](https://www.youtube.com/watch?v=zv-yJE0ELvg)
 - [Ayoo kita percantik..!!](https://www.youtube.com/watch?v=XbmDyHGCKFo)
 - [DJANGO TUTORIAL: FULL FITUR WEB BLOG - Part 4 &lpar;Admin Page&rpar;](https://www.youtube.com/watch?v=nZSI94vaB8w)
-- [Cara Membuat MULTIBOOT LINUX dan WINDOWS hanya dengan 1 &lpar;satu&rpar; USB Flashdisk!!](https://www.youtube.com/watch?v=-lkMfXjF1J4)
 <!-- YOUTUBE:END -->
 
 [twitter]: https://twitter.com/cobainajaaa
