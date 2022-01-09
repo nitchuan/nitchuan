@@ -33,11 +33,11 @@
 ### Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
+- [Musik chill sambil ngoding](https://www.youtube.com/watch?v=ry-hsUKVmrA)
 - [Cara Install dan Menggunakan Virtual Environment Python - Windows10](https://www.youtube.com/watch?v=zs8FekclVlc)
 - [5 STEP CARA MUDAH INSTALL ULANG WINDOWS 7 - BTDC Eps. 0001](https://www.youtube.com/watch?v=KPh9HhB4JRg)
 - [Cara Download dan Install Python - Windows 10](https://www.youtube.com/watch?v=zv-yJE0ELvg)
 - [Ayoo kita percantik..!!](https://www.youtube.com/watch?v=XbmDyHGCKFo)
-- [DJANGO TUTORIAL: FULL FITUR WEB BLOG - Part 4 &lpar;Admin Page&rpar;](https://www.youtube.com/watch?v=nZSI94vaB8w)
 <!-- YOUTUBE:END -->
 
 [twitter]: https://twitter.com/cobainajaaa
