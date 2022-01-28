@@ -33,11 +33,11 @@
 ### Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
+- [GAMPANG BANGET!! CARA MEMBUAT HALAMAN YANG BERBEDA PADA DOCUMENT OFFICE WORD - BTDC Eps. 0002](https://www.youtube.com/watch?v=hqxHAJVqbYM)
 - [Musik chill sambil ngoding](https://www.youtube.com/watch?v=ry-hsUKVmrA)
 - [Cara Install dan Menggunakan Virtual Environment Python - Windows10](https://www.youtube.com/watch?v=zs8FekclVlc)
 - [5 STEP CARA MUDAH INSTALL ULANG WINDOWS 7 - BTDC Eps. 0001](https://www.youtube.com/watch?v=KPh9HhB4JRg)
 - [Cara Download dan Install Python - Windows 10](https://www.youtube.com/watch?v=zv-yJE0ELvg)
-- [Ayoo kita percantik..!!](https://www.youtube.com/watch?v=XbmDyHGCKFo)
 <!-- YOUTUBE:END -->
 
 [twitter]: https://twitter.com/cobainajaaa
