@@ -33,11 +33,11 @@
 ### Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
+- [Cara Download dan Install GIT di Windows 11](https://www.youtube.com/watch?v=hvcXCx2jkvU)
 - [Unboxing Laptop MSI Modern 14 B5M - AMD Ryzen 5 5500U](https://www.youtube.com/watch?v=Of6EsOssqh8)
 - [GAMPANG BANGET!! CARA MEMBUAT NOMOR HALAMAN YANG BERBEDA PADA DOCUMENT OFFICE WORD - BTDC Eps. 0002](https://www.youtube.com/watch?v=hqxHAJVqbYM)
 - [Musik chill sambil ngoding](https://www.youtube.com/watch?v=ry-hsUKVmrA)
 - [Cara Install dan Menggunakan Virtual Environment Python - Windows10](https://www.youtube.com/watch?v=zs8FekclVlc)
-- [5 STEP CARA MUDAH INSTALL ULANG WINDOWS 7 - BTDC Eps. 0001](https://www.youtube.com/watch?v=KPh9HhB4JRg)
 <!-- YOUTUBE:END -->
 
 [twitter]: https://twitter.com/cobainajaaa
