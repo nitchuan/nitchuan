@@ -6,7 +6,7 @@
 ### I'm a Student and Tech Enthusiast!!
 
 - 📖 I’m currently learning everything
-- 🌱 2021 Goals: Contribute more to Open Source projects
+- 🌱 2022 Goals: Contribute more to Open Source projects
 - 😎 Fun fact: I love coffee, book and music
 
 ### Connect with me:
